@@ -1,2 +1,2 @@
-# my-projects-in-Bitcamp-Fall-2022
+# qr-code-component
 Created with CodeSandbox
